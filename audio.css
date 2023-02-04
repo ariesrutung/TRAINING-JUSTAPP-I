@@ -364,48 +364,15 @@ ion-view[state="music-album-view-track"] .item.item-custom.item-avatar img {
 /* menghilangkan bebrapa button control */
 
 
-/* button acak */
-
-
-/*.mini-controls button:nth-child(1) */
-
-
-/* button acak */
-
-
-/*.mini-controls button:nth-child(2), */
-
-
-/* button ganti lagu ke belakang */
-
-
-/*.mini-controls button:nth-child(3)*/
-
-
 /* button mundur lagu */
 
 .mini-controls button:nth-child(4),
-
-/* button play */
-
-
-/*.mini-controls button:nth-child(5)*/
-
 
 /* button maju lagu */
 
 .mini-controls button:nth-child(6),
 
-/* button ganti lagu ke depan */
-
-
-/*.mini-controls button:nth-child(7)*/
-
-
 /* button playlist */
-
-
-/*.mini-controls button:nth-child(8)*/
 
 .mini-controls button:nth-child(9),
 
@@ -441,16 +408,6 @@ ion-modal-view.audio-player.media-player.media-player-modal .cover {
     background-repeat: no-repeat !important;
     background-size: 54% !important;
 }
-
-
-/*[ng-click="player.playerModalIsOpen ? player.closePlayerModal() : player.openPlayerModal('cover')"],
-[ng-click="purchase()"],
-[ng-click="player.backward()"],
-[ng-click="player.forward()"],
-[ng-click="player.shuffle()"] {
-    display: none;
-}
-*/
 
 
 /* Ketika klik list dari mini control play */

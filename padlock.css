@@ -10,6 +10,7 @@ ion-view.padlock-view ion-content {
 
 .padlock-view {
     font-family: 'Haas Grot Text R Web', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    z-index: 999 !important;
 }
 
 .padlock-view .card.padlock .item.item-text-wrap.item-custom h2 {
